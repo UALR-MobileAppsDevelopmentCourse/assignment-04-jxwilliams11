@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name = "my_padding">24dp </dimen>
+    <dimen name = "my_imageMargin">12dp </dimen>
+    <dimen name = "my_textMargin">24dp </dimen>
+    <dimen name = "my_imageWidth">128dp </dimen>
+    <dimen name = "my_imageHeight">0dp </dimen>
+    <dimen name = "my_titleTextSize">20sp </dimen>
+    <dimen name = "my_longTextSize">16sp </dimen>
+    <dimen name = "my_lineHeight">24dp </dimen>
+    <dimen name = "my_buttonMargin">12dp </dimen>
+
+</resources>
